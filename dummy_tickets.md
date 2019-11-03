@@ -23,7 +23,7 @@
     - no cancellation fee
   - supercheap ticket prices as new competitor too flixbus (95% market share)
 
-## Dummy ticket services for flight & hotel
+## Dummy Ticket Services for Flight & Hotel
 - https://schengenvisaflightreservation.com/pricing/
 - https://www.dummyticket.com
 - https://visareservation.com/?scrollto=delivery

@@ -14,3 +14,5 @@
     - [berlin.de ~ Formular Schriftliche Vollmacht zur Anmeldung einer Eheschließung](https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/standesamt/vollmacht_anmeldung_eheschliessung_standesamt.pdf)
     - **TODO: Standesamt fragen**
   - [berlin.de ~ Gebühren](https://service.berlin.de/dienstleistung/318962/)
+  
+  ### Rechtsfolgen

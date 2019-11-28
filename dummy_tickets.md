@@ -21,7 +21,7 @@
     - no money return but coupon
     - coupon valid for only 4 months
     - no cancellation fee
-  - supercheap ticket prices as new competitor too flixbus (95% market share)
+  - supercheap ticket prices as new competitor to flixbus (95% market share)
 
 ## Dummy Ticket Services for Flight & Hotel
 - https://schengenvisaflightreservation.com/pricing/
